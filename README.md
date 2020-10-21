@@ -13,6 +13,8 @@
 * Catching up with the Latest in C#
 * Going Further with C#
 
+NOTE: The console application must be run in the OverviewCsharp directory.
+
 ## DESENVOLVIMENTO DE FUNDAMENTOS EM CSHARP
 [Mentor(Scott Allen)](https://odetocode.com/)
 
@@ -27,3 +29,5 @@
 * POO com Csharp
 * Mais Recente em Csharp
 * Além com Csharp
+
+OBS : Aplicação console deve ser executada no diretorio OverviewCsharp.
