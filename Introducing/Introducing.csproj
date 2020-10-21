@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Introducing\Introducing.csproj" />
+    <ProjectReference Include="..\Sumary\Sumary.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

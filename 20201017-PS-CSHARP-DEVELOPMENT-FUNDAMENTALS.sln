@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverviewCsharp", "OverviewCsharp\OverviewCsharp.csproj", "{11201EFB-193B-4A3A-829D-D9DCEEF49890}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducing", "Introducing\Introducing.csproj", "{8315F087-5046-4EBB-A834-6DCC66B71D2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{11201EFB-193B-4A3A-829D-D9DCEEF49890}.Release|x64.Build.0 = Release|Any CPU
 		{11201EFB-193B-4A3A-829D-D9DCEEF49890}.Release|x86.ActiveCfg = Release|Any CPU
 		{11201EFB-193B-4A3A-829D-D9DCEEF49890}.Release|x86.Build.0 = Release|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Debug|x64.Build.0 = Debug|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Debug|x86.Build.0 = Debug|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Release|x64.ActiveCfg = Release|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Release|x64.Build.0 = Release|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Release|x86.ActiveCfg = Release|Any CPU
+		{8315F087-5046-4EBB-A834-6DCC66B71D2F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

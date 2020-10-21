@@ -5,8 +5,9 @@ namespace OverviewCsharp
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+        {   
+            //Mostrar o sumário da aplicação abordada.
+            Introducing.Intro.Main(args);
         }
     }
 }
